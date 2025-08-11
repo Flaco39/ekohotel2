@@ -59,26 +59,6 @@
 .ban2child{
     @apply h-[127px] w-[1240px]
 } 
-.line{
-    @apply h-1 w-[100%] bg-teal-400
-}
-
-
-.fir3{
-    @apply h-[138px] w-[1270px] 
-}
-.f3d1{
-    @apply text-white flex gap-[1rem] justify-center items-center text-[40px] font-bold
-}
-.f3d2{
-    @apply flex flex-col justify-center items-center gap-[4px] mt-[3rem]
-}
-.our{
-    @apply text-our
-}
-.line{
-    @apply w-[50px] h-[1px] bg-white
-}
-.bigline{
-    @apply h-[1px] w-[200px]
+.headlinks{
+    @apply hover:text-background transition ease-in-out duration-500
 }
